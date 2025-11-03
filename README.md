@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 💚, I'm Zeynep</h1>
-<h3 align="center">A passionate developer from Türkiye</h3>
+<h3 align="center">A computer engineer from Türkiye</h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
